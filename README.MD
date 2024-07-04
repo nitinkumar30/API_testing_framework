@@ -1,6 +1,6 @@
 # API Testing framework
 
-🚀 Welcome to API Testing framework ! This project demonstrates API testing using Python `[requests](https://pypi.org/project/requests/)` library against a sample API server.
+🚀 Welcome to API Testing framework ! This project demonstrates API testing using Python [requests](https://pypi.org/project/requests/) library against a sample API server.
 
 ## Description
 
