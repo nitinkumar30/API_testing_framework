@@ -1,6 +1,6 @@
-# Project Name
+# API Testing framework
 
-🚀 Welcome to Project Name! This project demonstrates API testing using Python `requests` library against a sample API server.
+🚀 Welcome to API Testing framework ! This project demonstrates API testing using Python `requests` library against a sample API server.
 
 ## Description
 
