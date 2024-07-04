@@ -39,11 +39,11 @@ Each script (`get_example.py`, `post_example.py`, `put_example.py`, `patch_examp
 
 📘 Usage examples and how-tos:
 
-- Run `python get_example.py` to see how to perform a GET request.
-- Run `python post_example.py` to see how to perform a POST request.
-- Run `python put_example.py` to see how to perform a PUT request.
-- Run `python patch_example.py` to see how to perform a PATCH request.
-- Run `python delete_example.py` to see how to perform a DELETE request.
+- Run `python get.py` to see how to perform a GET request.
+- Run `python post.py` to see how to perform a POST request.
+- Run `python put.py` to see how to perform a PUT request.
+- Run `python patch.py` to see how to perform a PATCH request.
+- Run `python delete.py` to see how to perform a DELETE request.
 
 ## Contributing
 
