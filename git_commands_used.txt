@@ -1,0 +1,15 @@
+// Initialize git
+git init
+
+// Connect remote repo
+git remote add origin https://github.com/nitinkumar30/API_testing_framework.git
+
+// Check remote versions
+git remote -v
+
+// Change the branch with v2.0
+git checkout -b v2.0
+
+// Push the new changes in new branch - v2.0
+git push -u origin v2.0
+
